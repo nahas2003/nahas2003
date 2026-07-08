@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahas2003&count_bg=%237C3AED&title_bg=%234F46E5&title=Profile+Views&edge_flat=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nahas2003&color=8A2BE2&style=flat-square&label=Profile%20Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nahas2003?label=Followers&style=flat-square&color=6366F1" alt="Followers" />
   <img src="https://img.shields.io/github/stars/nahas2003?label=Total%20Stars&style=flat-square&color=4F46E5" alt="Total Stars" />
 </p>
@@ -266,20 +266,12 @@ Agricultural systems lose significant yields annually to wildlife intrusions. Th
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nahas2003&show_icons=true&bg_color=0b0a15&title_color=a78bfa&text_color=e9d5ff&icon_color=818cf8&border_color=311042&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=nahas2003&background=0b0a15&fire=a78bfa&ring=818cf8&lbl_curr=a78bfa&lbl_peak=a78bfa&lbl_streak=a78bfa&val_curr=e9d5ff&val_peak=e9d5ff&val_streak=e9d5ff&border=311042" alt="Streak Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nahas2003&show_icons=true&bg_color=0b0a15&title_color=a78bfa&text_color=e9d5ff&icon_color=818cf8&border_color=311042&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=nahas2003&theme=tokyonight&background=0b0a15&border=311042&ring=818cf8&fire=a78bfa" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nahas2003&layout=compact&bg_color=0b0a15&title_color=a78bfa&text_color=e9d5ff&icon_color=818cf8&border_color=311042&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nahas2003&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nahas2003&layout=compact&bg_color=0b0a15&title_color=a78bfa&text_color=e9d5ff&icon_color=818cf8&border_color=311042&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
