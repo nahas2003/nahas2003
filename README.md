@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nahas2003" target="_blank">
+  <a href="https://muhammednahas.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/muhammed-nahas-n" target="_blank">
